@@ -1,5 +1,9 @@
 # Ankidroid for flutter
 
+## 1.0.3
+
+* fixed: `addMedia` incorrectly calls `addNotes`
+
 ## 1.0.2
 
 * Fixed: compilation on Flutter 3.29
